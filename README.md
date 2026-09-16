@@ -2,8 +2,6 @@
 
 [![Codewars](https://www.codewars.com/users/tavrida1337-sketch/badges/micro)](https://www.codewars.com/users/tavrida1337-sketch)
 
-> 7 kyu on Codewars — solving katas in Lua.
-
 ### Codewars
 [![Codewars tavrida1337-sketch](https://www.codewars.com/users/tavrida1337-sketch/badges/small)](https://www.codewars.com/users/tavrida1337-sketch)
 
