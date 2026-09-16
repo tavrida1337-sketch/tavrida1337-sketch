@@ -1,11 +1,12 @@
 # Hi, I'm tarios 👋
 
-[![Codewars](https://www.codewars.com/users/onlyhvh/badge/micro)](https://www.codewars.com/users/onlyhvh)
+[![Codewars](https://www.codewars.com/users/onlyhvh/badges/micro)](https://www.codewars.com/users/onlyhvh)
 
-> 6 kyu on Codewars — solving katas in Lua.
+> 6 kyu on Codewars — solving katas.
 
 ### Codewars
-[![Codewars onlyhvh](https://www.codewars.com/users/onlyhvh/badge/small)](https://www.codewars.com/users/onlyhvh)
+[![Codewars onlyhvh](https://www.codewars.com/users/onlyhvh/badges/small)](https://www.codewars.com/users/onlyhvh)
 
-### GitHub Stats
-![tarios's GitHub stats](https://github-readme-stats.vercel.app/api?username=tavrida1337-sketch&show_icons=true&theme=default)
+### GitHub
+![GitHub followers](https://img.shields.io/github/followers/tavrida1337-sketch?style=flat)
+![GitHub repos](https://img.shields.io/github/repos/tavrida1337-sketch/tavrida1337-sketch)
